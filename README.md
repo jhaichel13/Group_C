@@ -6,4 +6,6 @@ Members:
     Mary Angelous Taborada,
     Diana Jane Abella
     
-When going gets tough, the tough get going
+https://docs.djangoproject.com/en/1.6/intro/tutorial01/
+
+///for the tutorial///
